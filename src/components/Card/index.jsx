@@ -1,0 +1,1 @@
+// Acá iría el el componente de una card.
